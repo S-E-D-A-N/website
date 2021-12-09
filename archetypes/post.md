@@ -4,6 +4,7 @@ title: "{{ replace .Name "-" " " | title }}"
 # weight: 1
 # aliases: ["/first"]
 tags: [""]
+categories: [""]
 # author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -11,6 +12,7 @@ TocOpen: false
 draft: true
 hidemeta: false
 comments: false
+summary: "Summary Text."
 description: "Desc Text."
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
