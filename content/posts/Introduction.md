@@ -25,7 +25,7 @@ ShowReadingTime: false
 ShowPostNavLinks: true
 
 editPost:
-    URL: "https://github.com/S-E-D-A-N/website/issues"
+    URL: "https://github.com/S-E-D-A-N/website/tree/main/content/"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
