@@ -19,7 +19,7 @@ disableHLJS: false
 hideSummary: false
 searchHidden: true
 ShowReadingTime: false
-ShowBreadCrumbs: true
+# ShowBreadCrumbs: true
 ShowPostNavLinks: true
 
 editPost:
