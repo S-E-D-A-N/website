@@ -3,8 +3,8 @@ title: "Models"
 # date: 2020-09-15T11:30:03+00:00
 weight: 3
 # aliases: ["/first"]
-tags: ["Models"]
-categories: ["Models"]
+tags: ["Models", "DL"]
+categories: ["Models", "Deep Learning"]
 # author: "Me"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -12,8 +12,8 @@ TocOpen: false
 draft: true
 hidemeta: false
 comments: false
-summary: "SEDAN Models"
-description: "Models used for training/testing"
+summary: "SEDAN DL Models"
+description: "Deep Learning models used for training/testing"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
