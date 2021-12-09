@@ -9,7 +9,7 @@ categories: ["Models", "Machine Learning"]
 # author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
 summary: "SEDAN ML Models"
