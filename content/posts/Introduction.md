@@ -12,7 +12,7 @@ TocOpen: false
 draft: true
 hidemeta: false
 comments: false
-summary: Read Install and Update instructions here
+summary: "Intro to S.E.D.A.N"
 description: "Introduction to Speech Emotion Detection & Analysis using Neural Networks"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
