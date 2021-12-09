@@ -73,8 +73,7 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "Speech Emotion Detection & Analysis using Neural Networks"
-        Content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore fuga, ratione voluptatem, similique laudantium quae, 
-                 architecto cumque id voluptates quidem nesciunt officia enim quod libero voluptatum saepe iusto aspernatur sit!
+        Content: CS 539 ML Project
 
     socialIcons:
         # - name: twitter
