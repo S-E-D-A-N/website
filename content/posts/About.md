@@ -2,7 +2,7 @@
 title: "About"
 # date: 2020-09-15T11:30:03+00:00
 weight: 4
-# aliases: ["/first"]
+aliases: ["/about"]
 tags: ["Contributors"]
 categories: ["People"]
 # author: "Me"
